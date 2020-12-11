@@ -1,4 +1,4 @@
-# Start-CentOS-Docker
+# StartScript-CentOS-Docker
 さくらのVPSスタートアップスクリプで公開しているスクリプトですが、こちらでも公開します。
 
 使用する際に以下入力してください。
