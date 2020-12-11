@@ -1,7 +1,9 @@
 # StartScript-CentOS-Docker
+CentOS環境でDockerを始めるのに最適なスタートアップスクリプトです。
+
 さくらのVPSスタートアップスクリプで公開しているスクリプトですが、こちらでも公開します。
 
-使用する際に以下入力してください。
+以下が必要になります。
 - ユーザ（ADMIN_NAME）
 - ユーザのパスワードADMIN_PASSWORD
 - SSHのアクセスポート番号（SSH_PORT）
